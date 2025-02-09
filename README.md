@@ -1,6 +1,6 @@
 ## Hi there
 
-I am **Srijan S.**, a second-year BTech student with a strong interest in **Competitive Programming** and **Machine Learning**. My focus is on solving complex algorithmic challenges and building intelligent systems that leverage data effectively.
+I am **Srijan **, a second-year BTech student with a strong interest in **Competitive Programming** and **Machine Learning**. My focus is on solving complex algorithmic challenges and building intelligent systems that leverage data effectively.
 
 ### Technical Skills
 - **Competitive Programming**: Strong problem-solving abilities with a focus on efficiency.
