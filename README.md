@@ -5,11 +5,7 @@ I am **Srijan Sinha**, a second-year BTech student with a strong interest in **C
 ### Technical Skills
 - **Competitive Programming**: Strong problem-solving abilities with a focus on efficiency.
 - **Machine Learning**: Data preprocessing, model training, and optimization.
-- **Programming Languages**:  
-  - ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)  
-  - ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
-  - ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)  
-  - ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)  
+- **Programming Languages**: ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
 ### Tools & Technologies
 - **Database**: MongoDB
@@ -19,5 +15,3 @@ I am **Srijan Sinha**, a second-year BTech student with a strong interest in **C
 ### Get in Touch
 - LinkedIn: [Srijan Sinha](https://www.linkedin.com/in/srijan-sinha-6ab127290/)
 - Twitter: [Your Twitter Profile](#)
-- Email: your@email.com
-
