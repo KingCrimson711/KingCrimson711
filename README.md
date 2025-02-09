@@ -14,4 +14,4 @@ I am **Srijan Sinha**, a second-year BTech student with a strong interest in **C
 
 ### Get in Touch
 - LinkedIn: [Srijan Sinha](https://www.linkedin.com/in/srijan-sinha-6ab127290/)
-- Twitter: [Your Twitter Profile](#)
+
