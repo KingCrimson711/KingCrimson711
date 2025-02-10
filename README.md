@@ -13,5 +13,5 @@ I am Srijan , a second-year BTech student with a strong interest in **Competitiv
 - **Operating System**: macOS
 
 ### Get in Touch
-- LinkedIn: [Srijan Sinha](https://www.linkedin.com/in/srijan-sinha-6ab127290/)
+- LinkedIn: https://www.linkedin.com/in/srijan-s-6ab127290/
 
