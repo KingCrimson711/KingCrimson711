@@ -11,7 +11,7 @@ I'm **Srijan**, a second-year BTech student passionate about **Competitive Progr
 ### Machine Learning and Data Preprocessing  
 - Skilled in **data preprocessing**, including cleaning, transforming, and preparing data for analysis.  
 - Familiar with the basics of **deep learning** and **neural networks**, and have experimented with frameworks like **TensorFlow** and **PyTorch**.  
-- Experience working with **large language models (LLMs)**, including using **Ollama** for projects.  
+- Experience working with **large language models (LLMs)**.  
 
 ### Frontend Development  
 - Basic knowledge of **HTML** and **CSS** for creating simple, responsive web interfaces.  
