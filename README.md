@@ -29,7 +29,6 @@ I'm **Srijan**, a second-year BTech student passionate about **Competitive Progr
 
 ## Get in Touch  
 - **LinkedIn**: [Srijan S](https://www.linkedin.com/in/srijan-s-6ab127290/)  
-- **GitHub**: [Your GitHub Profile](https://github.com/KingCrimson711)  
 
 ---
 
