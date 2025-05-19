@@ -5,7 +5,7 @@ I'm **Srijan**, a second-year BTech student passionate about **Competitive Progr
 ## Technical Skills  
 
 ### Competitive Programming and DSA  
-- I have solved **around 300 problems** on **Codeforces** and am currently a **Pupil**.  
+- I have solved **around 300 problems** on **Codeforces** and am currently a **Specialist**.  
 - Strong understanding of data structures and algorithms, with a focus on optimization.  
 
 ### Machine Learning and Data Preprocessing  
