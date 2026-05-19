@@ -67,7 +67,7 @@ Feb 2025 – July 2025 | Remote
 - Role‑based access control (admin/editor/viewer)
 
 ###  Voice‑Based File Management  
-[🔗 Repo](https://github.com/KingCrimson711/Voice-Based-File-Management-System)  
+[ Repo](https://github.com/KingCrimson711/Voice-Based-File-Management-System)  
 - Whisper STT + custom NLP to understand voice commands (create, delete, move files)  
 - Handles hundreds of file operations daily with permission checks  
 - Added voice feedback – users make fewer mistakes
