@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Srijan+Sinha!;Codeforces+Specialist;DSA+%3E%3E+ML+%3E%3E+HTML%2FCSS" alt="Typing SVG" />
 </h1>
 
-<h3 align="center"> Competitive Programmer | ML/DL Tinkerer | Backend‑First Builder </h3>
+<h3 align="center"> Competitive Programming | Computer Architecture | OS | VLSI/SystemVerilog </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KingCrimson711&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
