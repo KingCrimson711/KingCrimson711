@@ -1,149 +1,113 @@
-<!--
-  GitHub Profile README for Srijan Sinha (KingCrimson711)
-  Realistic metrics, human tone, still visually engaging.
-  Strength order: DSA/CP > ML/DL > HTML/CSS.
--->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Srijan+Sinha!;Codeforces+Specialist;DSA+%3E%3E+ML+%3E%3E+HTML%2FCSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Srijan+Sinha;Digital+Design+%7C+Computer+Architecture;SystemVerilog+%7C+FPGA+%7C+Verification;Codeforces+Specialist" alt="Typing SVG" />
 </h1>
 
-<h3 align="center"> Competitive Programming | Computer Architecture | OS | VLSI/SystemVerilog </h3>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KingCrimson711&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Codeforces-Specialist-1f8acb?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Specialist" />
- 
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=RTL+Design+%7C+Computer+Architecture+%7C+Hardware+Verification;Open+to+internships+in+Digital+Design+%26+Architecture" alt="Typing SVG" />
 </p>
 
 ---
 
-## About Me
+### About Me
 
-I'm a third‑year **Electronics & Communication Engineering** student at **IIIT Naya Raipur** (CGPA: 7.61/10).  
-My interests, in order of depth:
+Final-year **Electronics and Communication Engineering** student at **IIIT Naya Raipur** (Batch of 2027).
 
-1. **DSA & Competitive Programming** – Codeforces **Specialist** (1400+ rating), 500+ problems solved
-2. **Machine Learning / Deep Learning** – LLMs, neural networks, NLP (practical projects)
-3. **Web Fundamentals** – HTML5, CSS3 ,JS
+I like understanding computers from the ground up — how an instruction turns into control signals, how a cache decides what to evict, and how algorithms map onto hardware.
 
->  *Quick note* – some of my projects are in **private repos** due to internship NDAs or ongoing research. Happy to walk you through them if you reach out.
+**Focus areas:**
+- Digital design & computer architecture (SystemVerilog / Verilog, FPGA, CPU design)
+- Hardware verification (self-checking testbenches, cross-validation with software models)
+- Algorithms & systems programming (Codeforces Specialist, 500+ problems)
 
----
-
-##  Strengths (Priority Order)
-
-| Rank | Area | What I actually do |
-|------|------|---------------------|
-| **1** | **DSA / CP** | Fast C++/Python solutions, Codeforces Specialist (1400+), 500+ problems across CF, LeetCode, CodeChef |
-| **2** | **ML / DL** | Build LLM‑powered tools (RAG, fine‑tuning), use TensorFlow/PyTorch for real projects |
-| **3** | **Web (HTML/CSS)** | Clean, responsive layouts – no JavaScript, I focus on the data/backend side |
+> Some work is in private repositories. Happy to walk through it if you reach out.
 
 ---
 
-##  Internship Experience
+### Featured Work
 
-### **Rootvestors** – *ML + Full‑Stack Intern*  
-Feb 2025 – July 2025 | Remote
+**8-bit SAP Computer in SystemVerilog**  
+[Repository](https://github.com/KingCrimson711/SAP-Simple-As-Possible-Computer-)  
+Complete 8-bit Simple-As-Possible computer with shared bus, program counter, MAR, 16-byte RAM, registers, ALU (zero + carry flags), hardwired control unit, and 7-segment display.
 
-- Built a **Q&A system** using Ollama 3 + ElasticSearch that works well on thousands of queries; automated data cleaning – reduced processing from a few hours to several minutes.
-- Developed a **Graph AI Assistant** – real‑time collaborative editor (WebSocket, Canvas API) with a Neo4j backend storing thousands of nodes; integrated LLM suggestions that noticeably improved user productivity.
-- Wrote **Flask REST APIs** (handling hundreds of daily requests), set up JWT authentication, and optimised search queries to feel snappier.
-- Worked in a small team (5 people) serving hundreds of daily users; improved rendering for large graphs so they load much faster.
+- 9-instruction ISA (load/store, add/sub, JMP, BEQ, output, halt)
+- Self-checking testbench with PASS/FAIL
+- Passes RTL synthesis in Yosys
+- Documented limitations and future extensions
 
----
+**AES-128 on FPGA**  
+[AES-Visualizer](https://github.com/KingCrimson711/AES-Visualizer)  
+FPGA-oriented AES-128 implementation in Verilog + C++ reference model. Hardware outputs cross-validated against the software model.
 
-##  Projects
+**Adaptive Cache Optimization for Dynamic Workloads**  
+Accepted at **IEEE ETECOM 2026**, Paris.  
+Novel cache replacement policy that outperforms FIFO, LFU and MFU by >1.5× on cyclic traces with hotspots.
 
-###  Graph AI Assistant  
-[ Repo (public scaffold)](https://github.com/KingCrimson711/Backend-Whiteboard)  
-- Real‑time graph editor with WebSocket (supports multiple concurrent users)  
-- <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" /> for storing nodes and relationships  
-- Ollama LLM gives smart suggestions as you edit  
-- Role‑based access control (admin/editor/viewer)
-
-###  Voice‑Based File Management  
-[ Repo](https://github.com/KingCrimson711/Voice-Based-File-Management-System)  
-- Whisper STT + custom NLP to understand voice commands (create, delete, move files)  
-- Handles hundreds of file operations daily with permission checks  
-- Added voice feedback – users make fewer mistakes
-
-###  Natural Language CLI  
-[ Repo](https://github.com/KingCrimson711/English-to-CLI)  
-- Turns plain English into shell commands using Llama3 (fine‑tuned on thousands of examples)  
-- Gives context‑aware suggestions – speeds up command line work  
-- Built‑in safety to block dangerous commands
-
-> *More repos on my GitHub; private ones available for discussion.*
+**Other Projects**
+- [Green Supply Chain Optimizer](https://github.com/KingCrimson711/Green-Supply-Chain-Optimizer) — Neural network for carbon-aware routing on real OpenStreetMap data
+- [Backend-Whiteboard](https://github.com/KingCrimson711/Backend-Whiteboard) — Graph-based backend with DFS context extraction + Ollama (Llama 3)
+- [Voice-Based File Management](https://github.com/KingCrimson711/Voice-Based-File-Management-System)
+- [English-to-CLI](https://github.com/KingCrimson711/English-to-CLI)
 
 ---
 
-##  Tech Stack
+### Experience
+
+**Research Intern — SAG, DRDO**  
+*May 2026 – Jul 2026 | Delhi*  
+Designed and synthesized an FPGA-based AES-128 core in SystemVerilog. Built a C++ reference model for functional validation and performance benchmarking.
+
+**Machine Learning Intern — Rootvestors**  
+*Feb 2025 – Jul 2025 | Raipur*  
+Built a graph-based backend (C++/Python) using DFS for context extraction and Ollama (Llama 3) for query answering. Also developed a context-aware test generation system with MongoDB + Ollama.
+
+---
+
+### Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SystemVerilog-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Verilog-4B6C8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
----
-
-##  Coursework Highlights
-
-- Advanced DSA  
-- Machine Learning (TensorFlow/PyTorch)  
-- Database Systems (SQL + NoSQL)  
-- Operating Systems (Linux basics)  
-- OOP with C++  
-- AI (search, NLP intro)
+**Tools:** Icarus Verilog • Yosys • EDA Playground • GTKWave / EPWave
 
 ---
 
-## Achievements
+### Achievements
 
-- **Codeforces Specialist** (peak 1400+)  
-- Solved **500+ problems** across CF, LeetCode, CodeChef  
-- Built practical ML projects that actually do something useful  
-- Small open‑source contributions (and some private ones)
+- **Codeforces Specialist** — 500+ problems solved
+- **IEEE ETECOM 2026** — Accepted paper on adaptive cache replacement policies
+- Designed and verified a complete 8-bit CPU in SystemVerilog
 
 ---
 
-##  Find me
+### Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/srijan-s-6ab127290" target="_blank">
+  <a href="https://linkedin.com/in/srijan-s-6ab127290">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:srijan23101@iiitnr.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/KingCrimson711" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://codeforces.com/profile/redsexx">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=2D9CDB&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Check+out+my+repos+%F0%9F%91%87;Private+repos+available+on+request+%F0%9F%94%92" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=600&color=2D9CDB&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Feel+free+to+check+out+my+repositories" alt="Typing SVG" />
 </p>
