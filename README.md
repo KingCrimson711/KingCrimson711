@@ -27,6 +27,15 @@ I like understanding computers from the ground up — how an instruction turns i
 
 ### Featured Work
 
+**32-bit Pipelined RISC-V CPU**  
+[Repository](https://github.com/KingCrimson711/Pipelined-RISC-V-CPU)  
+A 32-bit processor implementing a subset of the RISC-V instruction set using Verilog.
+
+- Five-stage pipeline: IF, ID, EX, MEM, WB
+- Implements arithmetic, logical, load/store, branch, and jump instructions
+- Data forwarding, load-use hazard detection, and pipeline flushing
+- Simulated using Icarus Verilog and synthesized/implemented using AMD Xilinx Vivado
+
 **8-bit SAP Computer in SystemVerilog**  
 [Repository](https://github.com/KingCrimson711/SAP-Simple-As-Possible-Computer-)  
 Complete 8-bit Simple-As-Possible computer with shared bus, program counter, MAR, 16-byte RAM, registers, ALU (zero + carry flags), hardwired control unit, and 7-segment display.
@@ -38,18 +47,17 @@ Complete 8-bit Simple-As-Possible computer with shared bus, program counter, MAR
 
 **AES-128 on FPGA**  
 [AES-Visualizer](https://github.com/KingCrimson711/AES-Visualizer)  
-FPGA-oriented AES-128 implementation in Verilog + C++ reference model. Hardware outputs cross-validated against the software model.
+FPGA-oriented AES-128 implementation in Verilog with a C++ reference model. Hardware outputs cross-validated against the software model.
 
 **Adaptive Cache Optimization for Dynamic Workloads**  
 Accepted at **IEEE ETECOM 2026**, Paris.  
-Novel cache replacement policy that outperforms FIFO, LFU and MFU by >1.5× on cyclic traces with hotspots.
+Research on a cache replacement policy designed for dynamic workloads, outperforming FIFO, LFU, and MFU by >1.5× on cyclic traces with hotspots.
 
 **Other Projects**
 - [Green Supply Chain Optimizer](https://github.com/KingCrimson711/Green-Supply-Chain-Optimizer) — Neural network for carbon-aware routing on real OpenStreetMap data
 - [Backend-Whiteboard](https://github.com/KingCrimson711/Backend-Whiteboard) — Graph-based backend with DFS context extraction + Ollama (Llama 3)
 - [Voice-Based File Management](https://github.com/KingCrimson711/Voice-Based-File-Management-System)
 - [English-to-CLI](https://github.com/KingCrimson711/English-to-CLI)
-
 ---
 
 ### Experience
@@ -88,7 +96,7 @@ Built a graph-based backend (C++/Python) using DFS for context extraction and Ol
 
 - **Codeforces Specialist** — 500+ problems solved
 - **IEEE ETECOM 2026** — Accepted paper on adaptive cache replacement policies
-- Designed and verified a complete 8-bit CPU in SystemVerilog
+
 
 ---
 
