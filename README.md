@@ -111,9 +111,6 @@ Built a graph-based backend (C++/Python) using DFS for context extraction and Ol
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/redsexx">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
