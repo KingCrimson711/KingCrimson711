@@ -54,8 +54,8 @@ Accepted at **IEEE ETECOM 2026**, Paris.
 Research on a cache replacement policy designed for dynamic workloads, outperforming FIFO, LFU, and MFU by >1.5× on cyclic traces with hotspots.
 
 **Other Projects**
-- [Green Supply Chain Optimizer](https://github.com/KingCrimson711/Green-Supply-Chain-Optimizer) — Neural network for carbon-aware routing on real OpenStreetMap data
-- [Backend-Whiteboard](https://github.com/KingCrimson711/Backend-Whiteboard) — Graph-based backend with DFS context extraction + Ollama (Llama 3)
+- [Green Supply Chain Optimizer](https://github.com/KingCrimson711/Green-Supply-Chain-Optimizer)
+- [Backend-Whiteboard](https://github.com/KingCrimson711/Backend-Whiteboard)
 - [Voice-Based File Management](https://github.com/KingCrimson711/Voice-Based-File-Management-System)
 - [English-to-CLI](https://github.com/KingCrimson711/English-to-CLI)
 ---
